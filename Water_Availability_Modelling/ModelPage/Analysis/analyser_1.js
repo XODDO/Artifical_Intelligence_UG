@@ -1,0 +1,3 @@
+class Analyser1{
+
+}
